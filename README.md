@@ -10,7 +10,7 @@
    REFER - https://github.com/brefphp/laravel-bridge
 
 5. `php artisan vendor:publish --tag=serverless-config`
-   REFER - https://bref.sh/docs/runtimes/https://bref.sh/docs/runtimes/
+   REFER - https://bref.sh/docs/runtimes/https://bref.sh/docs/runtimes/ (Make it match with the version installed)
    Update the layer versions to latest - ${bref:layer.php-81} / ${bref:layer.php-81-fpm}
 
 6. `serverless deploy`
